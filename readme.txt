@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of file
 chenzhenyu
 Git is a free software ...
+进入github
